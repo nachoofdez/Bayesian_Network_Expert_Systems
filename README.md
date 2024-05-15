@@ -16,3 +16,7 @@ This repository contains the implementation and analysis of Bayesian networks in
 
 ## Goal
 The goal of this project is to gain insights into Bayesian networks and their applications in expert systems, particularly in medical domains. By implementing and analyzing Bayesian networks, we aim to understand probabilistic reasoning and knowledge representation in expert systems.
+
+## Authors
+- Ignacio Fernández Sánchez-Pascuala
+- Javier Castellano Soria
